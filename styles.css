@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/vectors/hand-drawing-retro-photo-cameras-seamless-pattern-background-vector-id841237632?b=1&k=6&m=841237632&s=612x612&h=QOIWuPGc0pg6EYKb8Iz6nmgYxND9-7gv9tQZ_jEd4X4=);
+}
+
+.same {
+    padding: 5px;
+    border: solid black 5px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+.here {
+    color: skyblue;
+    background-image: url(https://image.freepik.com/free-photo/gray-painted-background_53876-94041.jpg);
+}
